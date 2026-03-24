@@ -73,26 +73,26 @@ python cartoon_render.py test.jpg --comparison auto
 ## 3) 데모: 만화 느낌이 잘 표현된 예시 (2개)
 
 ### Good Output 1
-![test1](https://github.com/user-attachments/assets/2a0ac847-4b72-4f15-84a3-5b7cf1be4bb2)
-![test1_cartoon](https://github.com/user-attachments/assets/e3656c5f-57a2-4adb-b1b6-82f9df0e9c7f)
+![test1](https://github.com/user-attachments/assets/2a0ac847-4b72-4f15-84a3-5b7cf1be4bb2) ![test1_cartoon](https://github.com/user-attachments/assets/e3656c5f-57a2-4adb-b1b6-82f9df0e9c7f)
+
 
 
 ### Good Output 2
 
-![test3](https://github.com/user-attachments/assets/3557e389-6c8e-4110-999c-ee1e8beea0a8)
-![test3_cartoon](https://github.com/user-attachments/assets/c194371e-3dd7-4d34-810d-8bc5e73d03ff)
+![test3](https://github.com/user-attachments/assets/3557e389-6c8e-4110-999c-ee1e8beea0a8) ![test3_cartoon](https://github.com/user-attachments/assets/c194371e-3dd7-4d34-810d-8bc5e73d03ff)
+
 
 ## 4) 데모: 만화 느낌이 잘 표현되지 않은 예시 (2개)
 
 
 ### Bad Output 1
-![test2](https://github.com/user-attachments/assets/53ea8573-0a71-4151-87b8-5f90e7b6175d)
-![test2_cartoon](https://github.com/user-attachments/assets/71fb6079-cac0-42c7-a0ce-0b4240c07705)
+![test2](https://github.com/user-attachments/assets/53ea8573-0a71-4151-87b8-5f90e7b6175d) ![test2_cartoon](https://github.com/user-attachments/assets/71fb6079-cac0-42c7-a0ce-0b4240c07705)
+
 
 
 ### Bad Output 2
-![test4](https://github.com/user-attachments/assets/999d41b9-5563-4589-b5b1-86d4ef6c26e3)
-![test4_cartoon](https://github.com/user-attachments/assets/ffc86940-63cb-4a5d-b176-499b33b82712)
+![test4](https://github.com/user-attachments/assets/999d41b9-5563-4589-b5b1-86d4ef6c26e3) ![test4_cartoon](https://github.com/user-attachments/assets/ffc86940-63cb-4a5d-b176-499b33b82712)
+
 
 
 ## 5) 알고리즘 한계점
